@@ -7,8 +7,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 # Built With
 
-HTML \n
-JavaScript \n
-Flask \n
-Python \n
-PostgreSQL  \n
+•	HTML
+•	JavaScript
+•	Flask
+•	Python
+•	PostgreSQL
