@@ -1,6 +1,4 @@
-# TeamP
-TEAM P
-Hack SU (First Place)
+# TeamP Hack SU (First Place)
 
 Team P built website to help people find street parking near Seattle U with data from Seattle Open Data Portal.
 
@@ -10,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 # Built With
 
 HTML 
-JavaScript
-Flask
-Python 
-PostgreSQL
+/nJavaScript
+/nFlask
+/nPython 
+/nPostgreSQL
